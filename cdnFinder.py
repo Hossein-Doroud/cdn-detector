@@ -237,3 +237,33 @@ manual_inspection = {
 	"aclst.com":{'name':'aclst', 'label': ['cloud']},
 	"emv2.com":{'name': 'emv2', 'label': ['cloud']},
 }
+
+# Dictionary of ASs which are dedicated entirely to a given CSP
+
+as_dict = {
+393245:{'csp':'Yahoo', 'as_name':'yahoo-swb', 'class':'Enterpise'},	#Enterpise
+36408:{'csp':'cdngp', 'as_name':'cdnetworksus-02', 'class':'Content'},	#Content
+10297:{'csp':'xlhost', 'as_name':'enet-2', 'class':'Content'},	#Content
+25148:{'csp':'basefarm', 'as_name':'basefarm-asn', 'class':'Content'},	#Content
+19551:{'csp':'Incapsula', 'as_name':'incapsula', 'class':'Content'},	#Content
+35994:{'csp':'Akamai', 'as_name':'akamai-as', 'class':'Transit/Access'},	#Transit/Access
+14618:{'csp':'amazonaws', 'as_name':'amazon-aes', 'class':'Content'},	#Content
+32934:{'csp':'Facebook', 'as_name':'facebook', 'class':'Content'},	#Content
+26347:{'csp':'dreamhost', 'as_name':'dreamhost-as', 'class':'Content'},	#Content
+16625:{'csp':'Akamai', 'as_name':'akamai-as', 'class':'Content'},	#Content
+197902:{'csp':'hostnet', 'as_name':'hostnet', 'class':'Content'},	#Content
+33047:{'csp':'Instartlogic', 'as_name':'instart', 'class':'Content'},	#Content
+15169:{'csp':'Google', 'as_name':'google', 'class':'Content'},	#Content
+54641:{'csp':'inmotionhosting', 'as_name':'inmoti-1', 'class':'Content'},	#Content
+14196:{'csp':'Yahoo', 'as_name':'yahoo-cha', 'class':'Enterpise'},	#Enterpise
+14776:{'csp':'Yahoo', 'as_name':'inktomi-lawson', 'class':'-'},	#N/A
+34164:{'csp':'Akamai', 'as_name':'akamai-lon', 'class':'Transit/Access'},	#Transit/Access
+20940:{'csp':'Akamai', 'as_name':'akamai-asn1', 'class':'Content'},	#Content
+20446:{'csp':'Highwinds', 'as_name':'highwinds3', 'class':'Content'},	#Content
+39905:{'csp':'smartfocus', 'as_name':'emailvision', 'class':'Content'},	#Content
+38895:{'csp':'amazonaws', 'as_name':'amazon-as-ap', 'class':'Transit/Access'},	#Transit/Access
+60922:{'csp':'HiberniaCDN', 'as_name':'Hibernia-cdn', 'class':'Transit/Access'},	#Transit/Access
+16509:{'csp':'amazonaws', 'as_name':'amazon-02', 'class':'Enterpise'},	#Enterpise
+30081:{'csp':'Cachefly', 'as_name':'cachenetworks', 'class':'Content'},	#Content
+8068:{'csp':'dc-msedge', 'as_name':'microsoft-corp-msn-as-block', 'class':'Enterpise'},	#Enterpise
+}
