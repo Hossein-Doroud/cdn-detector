@@ -236,6 +236,21 @@ manual_inspection = {
 	"amazonaws.com":{'name': 'amazonaws', 'label': ['cloud']},
 	"aclst.com":{'name':'aclst', 'label': ['cloud']},
 	"emv2.com":{'name': 'emv2', 'label': ['cloud']},
+	"open-telekom-cloud.com":{'name': 'Open Telekom', 'label': ['cloud']},
+	"hostpoint.ch":{'name': 'hostpoint', 'label': ['cloud']},
+	"idealhosting.net.tr":{'name': 'idealhosting', 'label': ['cloud']},
+	"aruba.it":{'name': 'aruba', 'label': ['cloud']},
+	"quadhost.net":{'name': 'quadhost', 'label': ['cloud']},
+	"fasthosts.net.uk":{'name': 'fasthosts', 'label': ['cloud']},
+	"xlshosting.net":{'name': 'xlshosting', 'label': ['cloud']},
+	"hostforweb.com":{'name': 'hostforweb', 'label': ['cloud']},
+	"a2hosting.com":{'name': 'a2hosting', 'label': ['cloud']},
+	"nexxea.com":{'name': 'ovh', 'label': ['cloud']},
+	"theplanet.com":{'name': 'theplanet', 'label': ['cloud']},
+	"cloudn-service.com":{'name': 'ntt', 'label': ['cloud']},
+	"myracloud.com":{'name': 'myracloud', 'label': ['cdn']},
+	"cloudvps.com":{'name': 'cloudvps', 'label': ['cloud']},
+	"cbici.net":{'name': 'cbi', 'label': ['cloud']},
 }
 
 # Dictionary of ASs which are dedicated entirely to a given CSP
