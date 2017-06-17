@@ -281,4 +281,13 @@ as_dict = {
 16509:{'csp':'amazonaws', 'as_name':'amazon-02', 'class':'Enterpise'},	#Enterpise
 30081:{'csp':'Cachefly', 'as_name':'cachenetworks', 'class':'Content'},	#Content
 8068:{'csp':'dc-msedge', 'as_name':'microsoft-corp-msn-as-block', 'class':'Enterpise'},	#Enterpise
+22611:{'csp':'inmotionhosting', 'as_name':'imh-west', 'class':'Content'},
+34879 : {'as_name': 'CCT-AS NGENIX', 'csp': 'NGENIX', 'class':'Content'},
+43428 : {'as_name': 'YAHOO-ULS', 'csp': 'Yahoo', 'class':''},
+16265 : {'as_name': 'LEASEWEB-NETWORK Amsterdam', 'csp': 'leaseweb', 'class':'Content'},
+29097 : {'as_name': 'hostpoint-as', 'csp': 'hostpoint', 'class':'Content'},
+21342 : {'as_name': 'AKAMAI-ASN2', 'csp': 'Akamai', 'class':'Transit/Access'},
+8523 : {'as_name': 'BASEFARM-SE-ASN Basefarm AB. Stockholm', 'csp': 'basefarm', 'class':'Enterpise'},
+24319 : {'as_name': 'AKAMAI-TYO-AP Akamai Technologies Tokyo ASN', 'csp': 'Akamai', 'class':'Transit/Access'},
+29798 : {'as_name': 'HIGHWINDS5', 'csp': 'Highwinds', 'class':'Transit/Access'}
 }
